@@ -1,0 +1,6 @@
+.env
+chroma_db/
+models/
+__pycache__/
+*.log
+*.pdf
